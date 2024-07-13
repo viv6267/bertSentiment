@@ -74,7 +74,8 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-
+python==3.9/
+sentimentbert/
 # Jupyter Notebook
 .ipynb_checkpoints
 
